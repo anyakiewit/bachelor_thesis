@@ -1,0 +1,18 @@
+Contents:
+
+README          this file
+thesis-IK.tex   main file to work on
+thesis-IK.bib   the bibliography file
+structure.tex   specifies settings of the thesis (including support for Dutch if you need this)
+ruglogo.pdf     logo for the cover page
+ruglogo-nl.pdf  Dutch version of logo
+aclnatbib.bst   bibliography style file
+
+How to compile:
+
+% pdflatex thesis-IK
+% bibtex thesis-IK
+% pdflatex thesis-IK
+% pdflatex thesis-IK
+
+This should give the file thesis-IK.pdf

@@ -1,0 +1,17 @@
+Frame,Accuracy,Precision,Recall,F1
+Capacity and Resources,0.838,0.2353,0.5714,0.3333
+Crime and Punishment,0.939,0.6667,0.2857,0.4000
+Cultural Identity,0.788,0.6207,0.6429,0.6316
+Economic,0.859,0.4500,0.7500,0.5625
+External Regulation and Reputation,0.970,0.0000,0.0000,0.0000
+Fairness and Equality,0.859,0.6250,0.5556,0.5882
+Health and Safety,0.899,0.5333,0.7273,0.6154
+Legality / Jurisprudence,0.838,0.4737,0.6000,0.5294
+Morality,0.717,0.4828,0.5185,0.5000
+Other,0.919,0.6000,0.3333,0.4286
+Policy Prescription and Evaluation,0.879,0.6154,0.5333,0.5714
+Political,0.939,0.5833,0.8750,0.7000
+Public Opinion,0.788,0.4000,0.3333,0.3636
+Quality of Life,0.879,0.5333,0.6154,0.5714
+Security and Defense,0.980,1.0000,0.3333,0.5000
+Total for all frames,0.141,0.5120,0.5515,0.5310
