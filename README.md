@@ -4,11 +4,11 @@ In **"all_json_csv_files"** you can find all data that is used for my research.
 
 In **"bachelor_thesis"** you can find the pdf with the thesis, and all the other fills to complile the latex into a pdf.
 
-In **"sub_question_1_3"** you can find the notebooks that include the code to calculate the results of sub question 1 and 3, and the gpt_suggestions vs the gold_standard.
+In **"sub_question_1_3"** you can find the notebooks that include the code to calculate the results of sub question 1 and 3, and the gpt_suggestions vs the gold_standard. At the top of the notebook, the needed fills and how to run the notebook are stated.
 
-In **sub_question_2_training_models** you can find all the python scripts to train the different models.
+In **sub_question_2_training_models** you can find all the python scripts to train the different models. Also all the results can be found inside the 'sub_question_2_training_models/results' folder.
 
-In **"sub_question_4"** you can find the documents with the results of the forms and the notebook to calculate the results of sub question 4.
+In **"sub_question_4"** you can find the documents with the results of the forms and the notebook to calculate the results of sub question 4. At the top of the notebook, the needed fills and how to run the notebook are stated.
 
 **Abstract:**
 Although Large Language Models (LLMs) are highly efficient at processing structured formal data, their ability to interpret informal human communication remains a major challenge. Understanding this limitation is crucial if we want to use LLMs to speed up the analysis of online discussions. In current research, there are two big gaps. First, most research that tests models on framing tasks uses formal text as datasets, making it unclear how well LLMs handle finding frames in informal and persuasive discussions, like those on the ChangeMyView (CMV) subreddit. Second, while studies show that AI advice can bias human annotators on factual datasets, they miss what happens when humans get LLM suggestions for subjective tasks. This is crucial to see whether humans become overly dependent on LLM suggestions, which affects maintaining the quality and reliability of the dataset.
