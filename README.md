@@ -2,7 +2,7 @@ Welcome to the repository of my bachelor thesis.
 
 In **"all_json_csv_files"** you can find all the annotated data that is used for my research.
 
-In **"bachelor_thesis"** you can find the pdf with the thesis, and all the other fills to complile the latex into a pdf.
+In **"final_version_thesis"** you can find the pdf with the thesis, and all the other fills to complile the latex into a pdf.
 
 In **"sub_question_1_3"** you can find the notebooks that include the code to calculate the results of sub question 1 and 3, and the gpt_suggestions vs the gold_standard. At the top of the notebook, the needed fills and how to run the notebook are stated.
 
