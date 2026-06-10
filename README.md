@@ -1,6 +1,6 @@
 Welcome to the repository of my bachelor thesis. 
 
-In **"all_json_csv_files"** you can find all data that is used for my research.
+In **"all_json_csv_files"** you can find all the annotated data that is used for my research.
 
 In **"bachelor_thesis"** you can find the pdf with the thesis, and all the other fills to complile the latex into a pdf.
 
